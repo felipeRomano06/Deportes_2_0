@@ -78,7 +78,54 @@
             "view": "heroCarousel"
         },
         {
-            "source": "https://feliperomano06.github.io/Deportes_2_0/pills.json",
+            "screens": [
+                {
+                    "icon": "f017",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/section_type1.json",
+                    "title": "Cartelera"
+                },
+                {
+                    "icon": "f1ea",
+                    "title": "futbol",
+                    "subSeccion": [
+                        {
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/section_type1.json",
+                            "title": "Fut Azteca"
+                        },
+                        {
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/section_type2.json",
+                            "title": "Copa America"
+                        },
+                        {
+                            "source": "https://www.tvazteca.com/aztecanoticias/app/screen/video",
+                            "title": "Liga MX"
+                        },
+                        {
+                            "source": "https://www.tvazteca.com/aztecanoticias/app/screen/galeria",
+                            "title": "Liga Expansiòn MX"
+                        },
+                        {
+                            "source": "https://www.tvazteca.com/aztecanoticias/app/screen/opinion",
+                            "title": "Liga Femenil MX"
+                        }
+                    ]
+                },
+                {
+                    "icon": "f03d",
+                    "source": "https://www.tvazteca.com/aztecanoticias/app/screen/video",
+                    "title": "Futbol Americano"
+                },
+                {
+                    "icon": "f03e",
+                    "source": "https://www.tvazteca.com/aztecanoticias/app/screen/galeria",
+                    "title": "Beisbol"
+                },
+                {
+                    "icon": "f075",
+                    "source": "https://www.tvazteca.com/aztecanoticias/app/screen/opinion",
+                    "title": "Tenis"
+                }
+            ],
             "view": "pills"
         },
         {
