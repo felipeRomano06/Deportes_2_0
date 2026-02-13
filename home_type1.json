@@ -81,5 +81,34 @@
             "source": "https://feliperomano06.github.io/Deportes_2_0/pills.json",
             "view": "pills"
         }
+        {
+            "adUnit": "/29782907/apps-azteca/aztecanoticias/reciente/home",
+            "view": "adBanner"
+        },
+        {
+            "promos": [],
+            "view": "matchSlider",
+            "title": "Proximos eventos"
+        },
+        {
+            "promos": [],
+            "view": "shortsSlider",
+            "title": "Azteca Shorts"
+        },
+        {
+            "promos": [],
+            "view": "simpleSlider",
+            "title": "Lo mas destacado"
+        },
+        {
+            "promos": [],
+            "view": "simpleSlider",
+            "title": "Programacion"
+        },
+        {
+            "promos": [],
+            "view": "videoSlider",
+            "title": "Zona futbol"
+        }
     ]
 }
