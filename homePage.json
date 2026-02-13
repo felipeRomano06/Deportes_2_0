@@ -119,7 +119,7 @@
             "screens": [
                 {
                     "icon": "f017",
-                    "source": "https://feliperomano06.github.io/Deportes_2_0/section_cartelera.json",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/secction_cartelera.json",
                     "title": "Cartelera"
                 },
                 {
