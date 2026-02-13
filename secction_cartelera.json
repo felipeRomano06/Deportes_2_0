@@ -1,0 +1,45 @@
+{
+    "metrics": {
+        "channel": "Deportes",
+        "firebase_screen": "Home - Cartelera",
+        "isRestricted": false,
+        "playlist_title": "",
+        "program": "",
+        "section": "Home",
+        "video_duration": "",
+        "video_id": "",
+        "video_title": "",
+        "video_type": ""
+    },
+    "modules": [
+        {
+            "adUnit": "/29782907/apps-azteca/aztecanoticias/reciente/home",
+            "view": "adBanner"
+        },
+        {
+            "promos": [],
+            "view": "matchSlider",
+            "title": "Proximos eventos"
+        },
+        {
+            "promos": [],
+            "view": "shortsSlider",
+            "title": "Azteca Shorts"
+        },
+        {
+            "promos": [],
+            "view": "simpleSlider",
+            "title": "Lo mas destacado"
+        },
+        {
+            "promos": [],
+            "view": "simpleSlider",
+            "title": "Programacion"
+        },
+        {
+            "promos": [],
+            "view": "videoSlider",
+            "title": "Zona futbol"
+        }
+    ]
+}
