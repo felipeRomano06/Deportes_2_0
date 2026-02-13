@@ -1,0 +1,38 @@
+[
+    {
+        "color": "#ffffff",
+        "icon": "e61b",
+        "source": "https://twitter.com/AztecaNoticias",
+        "title": "X-Twitter"
+    },
+    {
+        "color": "#ffffff",
+        "icon": "f16d",
+        "source": "https://www.instagram.com/aztecanoticias/",
+        "title": "Instagram"
+    },
+    {
+        "color": "#ffffff",
+        "icon": "e07b",
+        "source": "https://www.tiktok.com/@aztecanoticias",
+        "title": "Tiktok"
+    },
+    {
+        "color": "#ffffff",
+        "icon": "f39e",
+        "source": "https://www.facebook.com/ADN40mx/",
+        "title": "Facebook ADN"
+    },
+    {
+        "color": "#ffffff",
+        "icon": "f167",
+        "source": "https://www.youtube.com/aztecanoticias",
+        "title": "Youtube"
+    },
+    {
+        "color": "#ffffff",
+        "icon": "f232",
+        "source": "https://www.whatsapp.com/channel/0029Va9zBtRHQbS2CttrWL2u",
+        "title": "WhatsApp"
+    }
+]
