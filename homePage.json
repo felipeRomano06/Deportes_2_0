@@ -8,7 +8,7 @@
     "modules": [
         {
             "source": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/marcadores.json",
-            "view": "marcadores"
+            "view": "barraCaliente"
         },
         {
             "adUnit": "/29782907/apps-azteca/aztecanoticias/reciente/home",
@@ -25,7 +25,15 @@
                     "title": "Esperaba el camión para ir a trabajar y desapareció en Sinaloa: Buscan a Pablo Osorio Sánchez",
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
-                    "encenderPreguntas": true
+                    "surveyEnable": true,
+                    "channel": "Deportes",
+                    "firebase_screen": "Home - Cartelera",
+                    "playlist_title": "",
+                    "program": "",
+                    "section": "Home",
+                    "video_duration": "",
+                    "video_id": "",
+                    "isLive": true
                 },
                 {
                     "isStreaming": true,
@@ -35,7 +43,16 @@
                     "private": "0",
                     "title": "Gobierno culpa a administraciones pasadas por casos de sarampión",
                     "startTimestamp": 1760004000000,
-                    "endTimestamp": 1760011200000
+                    "endTimestamp": 1760011200000,
+                    "surveyEnable": true,
+                    "channel": "Deportes",
+                    "firebase_screen": "Home - Cartelera",
+                    "playlist_title": "",
+                    "program": "",
+                    "section": "Home",
+                    "video_duration": "",
+                    "video_id": "",
+                    "isLive": true
                 },
                 {
                     "isStreaming": false,
@@ -45,7 +62,16 @@
                     "private": "0",
                     "title": "Secretario de Energía de EU visita Venezuela; esta es su agenda",
                     "startTimestamp": 1760004000000,
-                    "endTimestamp": 1760011200000
+                    "endTimestamp": 1760011200000,
+                    "surveyEnable": true,
+                    "channel": "Deportes",
+                    "firebase_screen": "Home - Cartelera",
+                    "playlist_title": "",
+                    "program": "",
+                    "section": "Home",
+                    "video_duration": "",
+                    "video_id": "",
+                    "isLive": true
                 },
                 {
                     "isStreaming": false,
@@ -56,7 +82,16 @@
                     "private": "1",
                     "title": "ÚLTIMA HORA: Muere James Van Der Beek, el icónico protagonista de \"Dawson's Creek\"",
                     "startTimestamp": 1760004000000,
-                    "endTimestamp": 1760011200000
+                    "endTimestamp": 1760011200000,
+                    "surveyEnable": true,
+                    "channel": "Deportes",
+                    "firebase_screen": "Home - Cartelera",
+                    "playlist_title": "",
+                    "program": "",
+                    "section": "Home",
+                    "video_duration": "",
+                    "video_id": "",
+                    "isLive": true
                 },
                 {
                     "isStreaming": false,
@@ -66,10 +101,19 @@
                     "private": "0",
                     "title": "García Harfuch confirma balacera en El Limoncito, Sinaloa: Operativo deja 9 detenidos",
                     "startTimestamp": 1760004000000,
-                    "endTimestamp": 1760011200000
+                    "endTimestamp": 1760011200000,
+                    "surveyEnable": true,
+                    "channel": "Deportes",
+                    "firebase_screen": "Home - Cartelera",
+                    "playlist_title": "",
+                    "program": "",
+                    "section": "Home",
+                    "video_duration": "",
+                    "video_id": "",
+                    "isLive": true
                 }
             ],
-            "view": "heroCarousel"
+            "view": "posterCarousel"
         },
         {
             "screens": [
@@ -83,44 +127,44 @@
                     "title": "futbol",
                     "subSeccion": [
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/section_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Fut Azteca"
                         },
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/section_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Copa America"
                         },
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/section_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Liga MX"
                         },
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/section_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Liga Expansiòn MX"
                         },
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/section_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Liga Femenil MX"
                         }
                     ]
                 },
                 {
                     "icon": "f03d",
-                    "source": "https://www.tvazteca.com/aztecanoticias/app/screen/video",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                     "title": "Futbol Americano"
                 },
                 {
                     "icon": "f03e",
-                    "source": "https://www.tvazteca.com/aztecanoticias/app/screen/galeria",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                     "title": "Beisbol"
                 },
                 {
                     "icon": "f075",
-                    "source": "https://www.tvazteca.com/aztecanoticias/app/screen/opinion",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                     "title": "Tenis"
                 }
             ],
-            "view": "pills"
+            "view": "tabs"
         }
     ]
 }
