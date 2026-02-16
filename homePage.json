@@ -3,6 +3,38 @@
         "login": {
             "private": "2",
             "source": "https://www.tvazteca.com/aztecanoticias/login_noticias"
+        },
+        "tabsMetrics": {
+            "home": {
+                "channel": "Deportes",
+                "firebase_screen": "home",
+                "firebase_screen_class": "home",
+                "section": "home"
+            },
+            "enVivo": {
+                "channel": "Deportes",
+                "firebase_screen": "Envivo",
+                "firebase_screen_class": " Envivo",
+                "section": "Envivo"
+            },
+            "resultado": {
+                "channel": "Deportes",
+                "firebase_screen": "resultado",
+                "firebase_screen_class": "resultado",
+                "section": "resultado"
+            },
+            "favorito": {
+                "channel": "Deportes",
+                "firebase_screen": "favorito",
+                "firebase_screen_class": "favorito",
+                "section": "favorito"
+            },
+            "busqueda": {
+                "channel": "Deportes",
+                "firebase_screen": "busqueda",
+                "firebase_screen_class": "busqueda",
+                "section": "busqueda"
+            }
         }
     },
     "modules": [
@@ -26,14 +58,19 @@
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home - Cartelera",
-                    "playlist_title": "",
-                    "program": "",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "Soccer Match",
+                        "firebase_screen_class": "Soccer Match",
+                        "isRestricted": true,
+                        "playlist_title": "Home - America Monterrey",
+                        "program": "Partidos",
+                        "section": "Soccer",
+                        "video_duration": "",
+                        "video_id": "123456787654",
+                        "video_title": "America vs Monterrey",
+                        "video_type": "Live"
+                    }
                 },
                 {
                     "isStreaming": true,
@@ -45,14 +82,19 @@
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home - Cartelera",
-                    "playlist_title": "",
-                    "program": "",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "Soccer Match",
+                        "firebase_screen_class": "Soccer Match",
+                        "isRestricted": true,
+                        "playlist_title": "Home - America Monterrey",
+                        "program": "Partidos",
+                        "section": "Soccer",
+                        "video_duration": "",
+                        "video_id": "123456787654",
+                        "video_title": "America vs Monterrey",
+                        "video_type": "Live"
+                    }
                 },
                 {
                     "isStreaming": false,
@@ -64,14 +106,19 @@
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home - Cartelera",
-                    "playlist_title": "",
-                    "program": "",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "Soccer Match",
+                        "firebase_screen_class": "Soccer Match",
+                        "isRestricted": true,
+                        "playlist_title": "Home - America Monterrey",
+                        "program": "Partidos",
+                        "section": "Soccer",
+                        "video_duration": "",
+                        "video_id": "123456787654",
+                        "video_title": "America vs Monterrey",
+                        "video_type": "Live"
+                    }
                 },
                 {
                     "isStreaming": false,
@@ -84,14 +131,19 @@
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home - Cartelera",
-                    "playlist_title": "",
-                    "program": "",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "Soccer Match",
+                        "firebase_screen_class": "Soccer Match",
+                        "isRestricted": true,
+                        "playlist_title": "Home - America Monterrey",
+                        "program": "Partidos",
+                        "section": "Soccer",
+                        "video_duration": "",
+                        "video_id": "123456787654",
+                        "video_title": "America vs Monterrey",
+                        "video_type": "Live"
+                    }
                 },
                 {
                     "isStreaming": false,
@@ -103,14 +155,19 @@
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home - Cartelera",
-                    "playlist_title": "",
-                    "program": "",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "Soccer Match",
+                        "firebase_screen_class": "Soccer Match",
+                        "isRestricted": true,
+                        "playlist_title": "Home - America Monterrey",
+                        "program": "Partidos",
+                        "section": "Soccer",
+                        "video_duration": "",
+                        "video_id": "123456787654",
+                        "video_title": "America vs Monterrey",
+                        "video_type": "Live"
+                    }
                 }
             ],
             "view": "posterCarousel"
@@ -121,9 +178,19 @@
                     "icon": "f017",
                     "source": "https://feliperomano06.github.io/Deportes_2_0/secction_cartelera.json",
                     "title": "Cartelera",
-                    "channel": "Deportes",
-                    "firebase_screen": "Home - Cartelera",
-                    "section": "Home"
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "icon": "f1ea",
@@ -132,37 +199,87 @@
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Fut Azteca",
-                            "channel": "Deportes",
-                            "firebase_screen": "Home-futbol-Fut-Azteca",
-                            "section": "Home"
+                            "metrics": {
+                                "channel": "Deportes",
+                                "firebase_screen": "home-futbol-fut-azteca",
+                                "firebase_screen_class": "home",
+                                "isRestricted": true,
+                                "playlist_title": "",
+                                "program": "",
+                                "section": "home",
+                                "video_duration": "",
+                                "video_id": "",
+                                "video_title": "",
+                                "video_type": ""
+                            }
                         },
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Copa America",
-                            "channel": "Deportes",
-                            "firebase_screen": "Home-futbol-copa-America",
-                            "section": "Home"
+                            "metrics": {
+                                "channel": "Deportes",
+                                "firebase_screen": "home-futbol-copa-america",
+                                "firebase_screen_class": "copa america home",
+                                "isRestricted": true,
+                                "playlist_title": "",
+                                "program": "",
+                                "section": "home",
+                                "video_duration": "",
+                                "video_id": "",
+                                "video_title": "",
+                                "video_type": ""
+                            }
                         },
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Liga MX",
-                            "channel": "Deportes",
-                            "firebase_screen": "Home-futbol-liga-mx",
-                            "section": "Home"
+                            "metrics": {
+                                "channel": "Deportes",
+                                "firebase_screen": "home-ligamx-futbol",
+                                "firebase_screen_class": "ligamx home",
+                                "isRestricted": true,
+                                "playlist_title": "",
+                                "program": "",
+                                "section": "home",
+                                "video_duration": "",
+                                "video_id": "",
+                                "video_title": "",
+                                "video_type": ""
+                            }
                         },
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Liga Expansiòn MX",
-                            "channel": "Deportes",
-                            "firebase_screen": "Home-futbol-Liga-Expansion-MX",
-                            "section": "Home"
+                            "metrics": {
+                                "channel": "Deportes",
+                                "firebase_screen": "liga-expansion",
+                                "firebase_screen_class": "home",
+                                "isRestricted": true,
+                                "playlist_title": "",
+                                "program": "",
+                                "section": "home",
+                                "video_duration": "",
+                                "video_id": "",
+                                "video_title": "",
+                                "video_type": ""
+                            }
                         },
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                             "title": "Liga Femenil MX",
-                            "channel": "Deportes",
-                            "firebase_screen": "Home-futbol-Liga-Femenil-MX",
-                            "section": "Home"
+                            "metrics": {
+                                "channel": "Deportes",
+                                "firebase_screen": "home-liga-femenil-mx",
+                                "firebase_screen_class": "liga femenil home",
+                                "isRestricted": true,
+                                "playlist_title": "",
+                                "program": "",
+                                "section": "home",
+                                "video_duration": "",
+                                "video_id": "",
+                                "video_title": "",
+                                "video_type": ""
+                            }
                         }
                     ]
                 },
@@ -170,25 +287,55 @@
                     "icon": "f03d",
                     "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                     "title": "Futbol Americano",
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-americano",
-                    "section": "Home"
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "icon": "f03e",
                     "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                     "title": "Beisbol",
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-beisbol",
-                    "section": "Home"
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "icon": "f075",
                     "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
                     "title": "Tenis",
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-tenis",
-                    "section": "Home"
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 }
             ],
             "view": "tabs"

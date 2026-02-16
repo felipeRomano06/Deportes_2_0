@@ -1,4 +1,17 @@
 {
+    "metrics": {
+        "channel": "Deportes",
+        "firebase_screen": "cartelera",
+        "firebase_screen_class": "cartelera home",
+        "isRestricted": true,
+        "playlist_title": "",
+        "program": "",
+        "section": "home",
+        "video_duration": "",
+        "video_id": "",
+        "video_title": "",
+        "video_type": ""
+    },
     "modules": [
         {
             "adUnit": "/29782907/apps-azteca/aztecanoticias/reciente/home",
@@ -15,12 +28,16 @@
                     "surveyEnable": true,
                     "metrics": {
                         "channel": "Deportes",
-                        "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                        "playlist_title": "liga mx",
-                        "program": "liga mx",
-                        "section": "Home",
+                        "firebase_screen": "Soccer Match",
+                        "firebase_screen_class": "Soccer Match",
+                        "isRestricted": true,
+                        "playlist_title": "Home - America Monterrey",
+                        "program": "Partidos",
+                        "section": "Soccer",
                         "video_duration": "",
-                        "videoAssetId": "12345 "
+                        "video_id": "123456787654",
+                        "video_title": "America vs Monterrey",
+                        "video_type": "Live"
                     },
                     "isLive": true
                 },
@@ -31,14 +48,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -47,14 +69,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 }
             ],
             "view": "matchSlider",
@@ -69,14 +96,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -85,14 +117,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "HHome-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -123,14 +160,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -139,14 +181,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -155,14 +202,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 }
             ],
             "view": "simpleSlider",
@@ -177,14 +229,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -193,14 +250,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -209,14 +271,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 }
             ],
             "view": "simpleSlider",
@@ -231,14 +298,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -247,14 +319,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 },
                 {
                     "highlighted": false,
@@ -263,14 +340,19 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre∫",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
-                    "isLive": true
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "cartelera",
+                        "firebase_screen_class": "cartelera home",
+                        "isRestricted": true,
+                        "playlist_title": "",
+                        "program": "",
+                        "section": "home",
+                        "video_duration": "",
+                        "video_id": "",
+                        "video_title": "",
+                        "video_type": ""
+                    }
                 }
             ],
             "view": "videoSlider",
