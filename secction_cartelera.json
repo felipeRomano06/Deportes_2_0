@@ -13,13 +13,15 @@
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
                     "surveyEnable": true,
-                    "channel": "Deportes",
-                    "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
-                    "playlist_title": "liga mx",
-                    "program": "liga mx",
-                    "section": "Home",
-                    "video_duration": "",
-                    "videoAssetId": "12345 ",
+                    "metrics": {
+                        "channel": "Deportes",
+                        "firebase_screen": "Home-futbol-Fut-Azteca-Sabado 25 de Octubre",
+                        "playlist_title": "liga mx",
+                        "program": "liga mx",
+                        "section": "Home",
+                        "video_duration": "",
+                        "videoAssetId": "12345 "
+                    },
                     "isLive": true
                 },
                 {
