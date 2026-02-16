@@ -18,7 +18,7 @@
             "promos": [
                 {
                     "isStreaming": true,
-                    "contentType": "fullVidepPlayer",
+                    "contentType": "fullVideoPlayer",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/8e672d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7f%2F46%2F6afb4ff74d04b915485f397e1f37%2Fesperaba-el-camion-para-ir-a-trabajar-y-desaparecio-en-sinaloa-buscan-a-pablo-osorio-sanchez.webp",
                     "source": "https://www.tvazteca.com/aztecanoticias/desaparicion-pablo-osorio-sanchez-concordia-sinaloa-23-enero-ultima-llamada/?_app=true",
                     "private": "1",
@@ -56,7 +56,7 @@
                 },
                 {
                     "isStreaming": false,
-                    "contentType": "fullVidepPlayer",
+                    "contentType": "fullVideoPlayer",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/2df022c/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F55%2Fba%2F35e0a07c4380b1abc386697e8f80%2Fsecretario-energia-estados-unidos-venezuela.jpg",
                     "source": "https://www.tvazteca.com/aztecanoticias/estados-unidos-secretario-energia-trump-visita-venezuela-por-que/?_app=true",
                     "private": "0",
@@ -95,7 +95,7 @@
                 },
                 {
                     "isStreaming": false,
-                    "contentType": "fullVidepPlayer",
+                    "contentType": "fullVideoPlayer",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/52696d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F04%2F14%2Fe7ca9cd448aa887707a69ab2820a%2Fmete-a-los-ninos-video-de-balacera-entre-federales-y-grupo-armado-tras-operativo-en-el-limoncito.webp",
                     "source": "https://www.tvazteca.com/aztecanoticias/balacera-el-limoncito-culiacan-sinaloa-hoy-11-febrero-operativo-fuerzas-federales-detenidos/?_app=true",
                     "private": "0",
@@ -120,7 +120,10 @@
                 {
                     "icon": "f017",
                     "source": "https://feliperomano06.github.io/Deportes_2_0/secction_cartelera.json",
-                    "title": "Cartelera"
+                    "title": "Cartelera",
+                    "channel": "Deportes",
+                    "firebase_screen": "Home - Cartelera",
+                    "section": "Home"
                 },
                 {
                     "icon": "f1ea",
@@ -128,40 +131,64 @@
                     "subSeccion": [
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
-                            "title": "Fut Azteca"
+                            "title": "Fut Azteca",
+                            "channel": "Deportes",
+                            "firebase_screen": "Home-futbol-Fut-Azteca",
+                            "section": "Home"
                         },
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
-                            "title": "Copa America"
+                            "title": "Copa America",
+                            "channel": "Deportes",
+                            "firebase_screen": "Home-futbol-copa-America",
+                            "section": "Home"
                         },
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
-                            "title": "Liga MX"
+                            "title": "Liga MX",
+                            "channel": "Deportes",
+                            "firebase_screen": "Home-futbol-liga-mx",
+                            "section": "Home"
                         },
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
-                            "title": "Liga Expansiòn MX"
+                            "title": "Liga Expansiòn MX",
+                            "channel": "Deportes",
+                            "firebase_screen": "Home-futbol-Liga-Expansion-MX",
+                            "section": "Home"
                         },
                         {
                             "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
-                            "title": "Liga Femenil MX"
+                            "title": "Liga Femenil MX",
+                            "channel": "Deportes",
+                            "firebase_screen": "Home-futbol-Liga-Femenil-MX",
+                            "section": "Home"
                         }
                     ]
                 },
                 {
                     "icon": "f03d",
                     "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
-                    "title": "Futbol Americano"
+                    "title": "Futbol Americano",
+                    "channel": "Deportes",
+                    "firebase_screen": "Home-futbol-americano",
+                    "section": "Home"
                 },
                 {
                     "icon": "f03e",
                     "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
-                    "title": "Beisbol"
+                    "title": "Beisbol",
+                    "channel": "Deportes",
+                    "firebase_screen": "Home-beisbol",
+                    "section": "Home"
                 },
                 {
                     "icon": "f075",
                     "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
-                    "title": "Tenis"
+                    "title": "Tenis",
+                    "channel": "Deportes",
+                    "firebase_screen": "Home-tenis",
+                    "section": "Home"
                 }
             ],
             "view": "tabs"
