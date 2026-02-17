@@ -20,37 +20,27 @@
         {
             "promos": [
                 {
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebaseScreen": "Soccer Match",
-                        "firebaseScreenClass": "Soccer Match",
-                        "isRestricted": true,
-                        "playlist_title": "Home - America Monterrey",
-                        "program": "Partidos",
-                        "section": "Soccer",
-                        "videoDuration": "",
-                        "videoId": "123456787654",
-                        "videoTitle": "America vs Monterrey",
-                        "videoType": "Live"
-                    },
                     "contentType": "envivo",
                     "mainMedia": {
-                        "vast": "https://pubads.g.doubleclick.net/gampad/ads?pp=default&cmsid=2586694&ad_type=audio_video&description_url=https%3A%2F%2Fwww.tvazteca.com%2Faztecanoticias%2Fdesaparicion-pablo-osorio-sanchez-concordia-sinaloa-23-enero-ultima-llamada%2F&hl=es&vpa=Click&sz=640x480&ad_rule=1&ads%3Fsz=640x480&vpmute=1&gdfp_req=1&env=instream&iu=%2F29782907%2Fapps-azteca%2Faztecanoticias%2FEstados%2FEstados-Videos&url=https%3A%2F%2Fwww.tvazteca.com%2Faztecanoticias%2Fdesaparicion-pablo-osorio-sanchez-concordia-sinaloa-23-enero-ultima-llamada%2F&ciu_szs=&output=vast&vid=698c994acf9f48b840d8d7d6&cust_params=duration%3Dover5min%26Entre_ID%3D698c994acf9f48b840d8d7d6%26sitename%3DAztecaNoticias%26section%3DEstados%26isamp%3Dfalse%26device%3Dapps%26content_genre%3DSensitive%2BTopics%26content_title%3DEstados%26pageType%3DVideo&impl=s&plcmt=1&unviewed_position_start=1&ads%3Fslotname=&device=Apps&correlator=",
-                        "videoAssetId": "698c994acf9f48b840d8d7d6",
                         "safeModeConfig": false,
                         "safeModeToken": {
                             "enabled": false,
                             "message": "Solo aplica para En Vivos.",
                             "token": ""
-                        }
+                        },
+                        "vast": "https://pubads.g.doubleclick.net/gampad/ads?pp=default&cmsid=2586694&ad_type=audio_video&description_url=https%3A%2F%2Fwww.tvazteca.com%2Faztecanoticias%2Fdesaparicion-pablo-osorio-sanchez-concordia-sinaloa-23-enero-ultima-llamada%2F&hl=es&vpa=Click&sz=640x480&ad_rule=1&ads%3Fsz=640x480&vpmute=1&gdfp_req=1&env=instream&iu=%2F29782907%2Fapps-azteca%2Faztecanoticias%2FEstados%2FEstados-Videos&url=https%3A%2F%2Fwww.tvazteca.com%2Faztecanoticias%2Fdesaparicion-pablo-osorio-sanchez-concordia-sinaloa-23-enero-ultima-llamada%2F&ciu_szs=&output=vast&vid=698c994acf9f48b840d8d7d6&cust_params=duration%3Dover5min%26Entre_ID%3D698c994acf9f48b840d8d7d6%26sitename%3DAztecaNoticias%26section%3DEstados%26isamp%3Dfalse%26device%3Dapps%26content_genre%3DSensitive%2BTopics%26content_title%3DEstados%26pageType%3DVideo&impl=s&plcmt=1&unviewed_position_start=1&ads%3Fslotname=&device=Apps&correlator=",
+                        "videoAssetId": "698c994acf9f48b840d8d7d6",
+                        "view": "video",
+                        "ampLink": "https://www.tvazteca.com/aztecanoticias/acusan-a-sady-loaiza-en-la-sep-por-presuntos-sobornos-y-corrupcion?_amp=true"
                     },
-                    "view": "video"
+                    "section": "futbol",
+                    "title": "America vs Monterrey"
                 }
             ]
         },
         {
             "source": "https://www.tvazteca.com/aztecadeportes/diablos-rojos-del-mexico-calendario-2026-horarios-fechas-inaugurales-temporada/?appView=true",
-            "view": "widgetWebView"
+            "view": "WebViewScoreMatch"
         }
     ]
 }

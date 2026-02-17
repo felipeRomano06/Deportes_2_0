@@ -1,43 +1,19 @@
 {
-    "metrics": {
-        "channel": "Deportes",
-        "firebase_screen": "cartelera",
-        "firebase_screen_class": "cartelera home",
-        "isRestricted": true,
-        "playlist_title": "",
-        "program": "",
-        "section": "home",
-        "video_duration": "",
-        "video_id": "",
-        "video_title": "",
-        "video_type": ""
-    },
     "modules": [
         {
             "promos": [
                 {
                     "isStreaming": true,
                     "contentType": "fullVidepPlayer",
+                    "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-1",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/8e672d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7f%2F46%2F6afb4ff74d04b915485f397e1f37%2Fesperaba-el-camion-para-ir-a-trabajar-y-desaparecio-en-sinaloa-buscan-a-pablo-osorio-sanchez.webp",
                     "source": "https://www.tvazteca.com/aztecanoticias/desaparicion-pablo-osorio-sanchez-concordia-sinaloa-23-enero-ultima-llamada/?_app=true",
                     "private": "1",
+                    "section": "futbol",
                     "title": "49ers VS Giants",
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "isStreaming": true,
@@ -45,23 +21,11 @@
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/4583e91/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fab%2F49%2F7449476147768fa48aab20413981%2Fsarampion-en-mexico-zoe-robledo-se-deslinda-de-mal-manejo-tras-alza-de-casos-de-sarampion.jpg",
                     "source": "https://www.tvazteca.com/aztecanoticias/sarampion-en-mexico-zoe-robledo-se-deslinda-mal-manejo-alza-casos-sarampion/?_app=true",
                     "private": "0",
+                    "section": "futbol",
                     "title": "Sevilla VS Elche",
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "isStreaming": false,
@@ -69,23 +33,11 @@
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/2df022c/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F55%2Fba%2F35e0a07c4380b1abc386697e8f80%2Fsecretario-energia-estados-unidos-venezuela.jpg",
                     "source": "https://www.tvazteca.com/aztecanoticias/estados-unidos-secretario-energia-trump-visita-venezuela-por-que/?_app=true",
                     "private": "0",
+                    "section": "futbol",
                     "title": "Lucha Azteca",
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "isStreaming": false,
@@ -94,23 +46,11 @@
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/042995f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F95%2F2d%2F6d02a3e942ef96a80c7a4324fc2f%2Fmuere-james-van-der-beek.jpg",
                     "source": "https://www.tvazteca.com/azteca7/series/ultima-hora-muere-james-van-der-beek-iconico-protagonista-dawsons-creek/?_app=true",
                     "private": "1",
+                    "section": "futbol",
                     "title": "TV Azteca transmitira a Cruz Azul en la jornada ....",
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "isStreaming": false,
@@ -118,23 +58,11 @@
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/52696d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F04%2F14%2Fe7ca9cd448aa887707a69ab2820a%2Fmete-a-los-ninos-video-de-balacera-entre-federales-y-grupo-armado-tras-operativo-en-el-limoncito.webp",
                     "source": "https://www.tvazteca.com/aztecanoticias/balacera-el-limoncito-culiacan-sinaloa-hoy-11-febrero-operativo-fuerzas-federales-detenidos/?_app=true",
                     "private": "0",
+                    "section": "futbol",
                     "title": "ES Hermoso! Asi luce el W17, nuevo monoplaza....",
                     "startTimestamp": 1760004000000,
                     "endTimestamp": 1760011200000,
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 }
             ],
             "view": "posterCarousel"
@@ -147,20 +75,7 @@
                     "source": "https://www.tvazteca.com/aztecanoticias/jeremy-alumno-apunalado-secundaria-tlahuac-internan-menor-acusado-lesiones/?_app=true",
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "highlighted": false,
@@ -168,20 +83,7 @@
                     "source": "https://www.tvazteca.com/aztecanoticias/jeremy-alumno-apunalado-secundaria-tlahuac-internan-menor-acusado-lesiones/?_app=true",
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "highlighted": false,
@@ -189,20 +91,7 @@
                     "source": "https://www.tvazteca.com/aztecanoticias/jeremy-alumno-apunalado-secundaria-tlahuac-internan-menor-acusado-lesiones/?_app=true",
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "highlighted": false,
@@ -210,20 +99,7 @@
                     "source": "https://www.tvazteca.com/aztecanoticias/jeremy-alumno-apunalado-secundaria-tlahuac-internan-menor-acusado-lesiones/?_app=true",
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "highlighted": false,
@@ -231,20 +107,7 @@
                     "source": "https://www.tvazteca.com/aztecanoticias/jeremy-alumno-apunalado-secundaria-tlahuac-internan-menor-acusado-lesiones/?_app=true",
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 },
                 {
                     "highlighted": false,
@@ -252,20 +115,7 @@
                     "source": "https://www.tvazteca.com/aztecanoticias/jeremy-alumno-apunalado-secundaria-tlahuac-internan-menor-acusado-lesiones/?_app=true",
                     "private": "0",
                     "title": "Sabado 25 de Octubre",
-                    "surveyEnable": true,
-                    "metrics": {
-                        "channel": "Deportes",
-                        "firebase_screen": "cartelera",
-                        "firebase_screen_class": "cartelera home",
-                        "isRestricted": true,
-                        "playlist_title": "",
-                        "program": "",
-                        "section": "home",
-                        "video_duration": "",
-                        "video_id": "",
-                        "video_title": "",
-                        "video_type": ""
-                    }
+                    "surveyEnable": true
                 }
             ],
             "view": "simpleVerticalSlider",
