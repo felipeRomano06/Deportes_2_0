@@ -21,7 +21,7 @@
                     "contentType": "fullVideoPlayer",
                     "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-1",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/8e672d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7f%2F46%2F6afb4ff74d04b915485f397e1f37%2Fesperaba-el-camion-para-ir-a-trabajar-y-desaparecio-en-sinaloa-buscan-a-pablo-osorio-sanchez.webp",
-                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/fullScreenVideo.json",
+                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/prod/fullScreenVideo.json",
                     "private": "1",
                     "section": "futbol",
                     "title": "49ers VS Giants",
@@ -34,7 +34,7 @@
                     "contentType": "liveMatchCenter",
                     "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-1",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/4583e91/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fab%2F49%2F7449476147768fa48aab20413981%2Fsarampion-en-mexico-zoe-robledo-se-deslinda-de-mal-manejo-tras-alza-de-casos-de-sarampion.jpg",
-                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/scoreMatch.json",
+                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/prod/scoreMatch.json",
                     "private": "0",
                     "section": "futbol",
                     "title": "Sevilla VS Elche",
@@ -47,7 +47,7 @@
                     "contentType": "fullVideoPlayer",
                     "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-1",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/2df022c/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F55%2Fba%2F35e0a07c4380b1abc386697e8f80%2Fsecretario-energia-estados-unidos-venezuela.jpg",
-                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/fullScreenVideo.json",
+                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/prod/fullScreenVideo.json",
                     "private": "0",
                     "section": "futbol",
                     "title": "Lucha Azteca",
@@ -60,7 +60,7 @@
                     "contentType": "liveMatchCenter",
                     "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-1",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/042995f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F95%2F2d%2F6d02a3e942ef96a80c7a4324fc2f%2Fmuere-james-van-der-beek.jpg",
-                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/scoreMatch.json",
+                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/prod/scoreMatch.json",
                     "private": "1",
                     "section": "futbol",
                     "title": "TV Azteca transmitira a Cruz Azul en la jornada ....",
@@ -73,7 +73,7 @@
                     "contentType": "fullVideoPlayer",
                     "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-1",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/52696d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F04%2F14%2Fe7ca9cd448aa887707a69ab2820a%2Fmete-a-los-ninos-video-de-balacera-entre-federales-y-grupo-armado-tras-operativo-en-el-limoncito.webp",
-                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/fullScreenVideo.json",
+                    "linkPermanente": "https://feliperomano06.github.io/Deportes_2_0/prod/fullScreenVideo.json",
                     "private": "0",
                     "section": "futbol",
                     "title": "ES Hermoso! Asi luce el W17, nuevo monoplaza....",
@@ -88,7 +88,7 @@
             "screens": [
                 {
                     "icon": "f017",
-                    "source": "https://feliperomano06.github.io/Deportes_2_0/secction_cartelera.json",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_cartelera.json",
                     "title": "Cartelera"
                 },
                 {
@@ -96,40 +96,40 @@
                     "title": "futbol",
                     "subSeccion": [
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_futbol.json",
                             "title": "Fut Azteca"
                         },
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_futbol.json",
                             "title": "Copa America"
                         },
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_futbol.json",
                             "title": "Liga MX"
                         },
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_futbol.json",
                             "title": "Liga Expansiòn MX"
                         },
                         {
-                            "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
+                            "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_futbol.json",
                             "title": "Liga Femenil MX"
                         }
                     ]
                 },
                 {
                     "icon": "f03d",
-                    "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_futbol.json",
                     "title": "Futbol Americano"
                 },
                 {
                     "icon": "f03e",
-                    "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_futbol.json",
                     "title": "Beisbol"
                 },
                 {
                     "icon": "f075",
-                    "source": "https://feliperomano06.github.io/Deportes_2_0/secction_futbol.json",
+                    "source": "https://feliperomano06.github.io/Deportes_2_0/prod/secction_futbol.json",
                     "title": "Tenis"
                 }
             ],
