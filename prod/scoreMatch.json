@@ -1,21 +1,4 @@
 {
-    "login": {
-        "private": "1",
-        "privateCfg": "https://www.tvazteca.com/envivo2020/login-appdeportes"
-    },
-    "metrics": {
-        "channel": "Deportes",
-        "firebase_screen": "Soccer Match",
-        "firebase_screen_class": "Soccer Match",
-        "isRestricted": true,
-        "playlist_title": "Home - America Monterrey",
-        "program": "Partidos",
-        "section": "Soccer",
-        "video_duration": "",
-        "video_id": "123456787654",
-        "video_title": "America vs Monterrey",
-        "video_type": "Live"
-    },
     "modules": [
         {
             "promos": [
