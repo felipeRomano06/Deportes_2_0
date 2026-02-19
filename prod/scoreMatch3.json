@@ -28,7 +28,7 @@
         },
          {
             "source": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/marcadores.json",
-            "view": "WebViewScoreMatchStadistics"
+            "view": "WebViewScoreMatchGeneral"
         }
     ]
 }
