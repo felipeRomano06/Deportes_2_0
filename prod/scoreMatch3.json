@@ -23,8 +23,12 @@
             "view": "scoreMatch"
         },
         {
-            "source": "https://www.tvazteca.com/aztecadeportes/diablos-rojos-del-mexico-calendario-2026-horarios-fechas-inaugurales-temporada/?appView=true",
-            "view": "WebViewScoreMatch"
+            "adUnit": "/29782907/apps-azteca/aztecanoticias/reciente/home",
+            "view": "adBanner"
+        },
+         {
+            "source": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/marcadores.json",
+            "view": "WebViewScoreMatchStadistics"
         }
     ]
 }
