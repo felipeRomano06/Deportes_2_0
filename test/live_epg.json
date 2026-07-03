@@ -1,0 +1,659 @@
+{
+"modules": [
+{
+"headline": "En Vivo",
+"promos": [
+{
+"channelLogo": "https://tvazteca.brightspotcdn.com/dims4/default/c1a5d68/2147483647/strip/true/crop/200x134+0+0/resize/90x60!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2Fa6%2Fae%2F64d335e84574b737e9c2434ca33d%2Fdeportenetwork-200x134.png",
+"contentType": "ShowPromo",
+"durationTime": "",
+"dynamicFormType": "",
+"endTime": "1783105200000",
+"firebaseEvent": "lista-de-envivos-sliderthumbs-en-vivo-pos-1",
+"highlighted": false,
+"id": "0000019c-dea1-dc98-a3dc-debdf0cc0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/261748a/2147483647/strip/true/crop/1000x563+0+1/resize/336x189!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2F13%2Fbb%2Fdb7ef4094e9b8f4e9d8492556006%2Fott-card-1000x564-led.jpg",
+"isLive": true,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/azteca-deportes-network-en-vivo?_app=true",
+"previewDetails": {
+"description": "Aquí podrás descubrir la información, noticias y actualizaciones de la programación de TV Azteca Deportes Network.",
+"imageBackground": "https://tvazteca.brightspotcdn.com/dims4/default/0e3a8e1/2147483647/strip/true/crop/1000x563+0+1/resize/1920x1080!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2F13%2Fbb%2Fdb7ef4094e9b8f4e9d8492556006%2Fott-card-1000x564-led.jpg",
+"logo": "https://tvazteca.brightspotcdn.com/dims4/default/00a2ae6/2147483647/strip/true/crop/512x512+0+0/resize/280x280!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2F5a%2F32%2Fd15bd8f24b01a2f8e7daa1d74d1b%2Flive-switcher-deportes-network.png"
+},
+"private": "0",
+"publicationDate": "11 marzo 2026",
+"section": "TV Azteca Deportes Network",
+"site": "Azteca Deportes",
+"startTime": "1783101600000",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "tagContentType.type.null",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "TV Azteca Deportes Network",
+"type": "Section"
+}
+],
+"title": "La Entrevista de 24: Deportes",
+"videoAssetId": "6994be4d5caab0723aaab37c"
+}
+],
+"view": "sliderThumbs"
+},
+{
+"promos": [
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "1:35",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-1",
+"highlighted": false,
+"id": "0000019e-5d25-d76c-abde-5d2faa910000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/16cf360/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F0b%2Fec%2F174445b348a796da4c417e64cf97%2Fmaxresdefault.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/cruz-azul-campeon-del-clausura-2026-conquisto-su-decima-estrella-en-la-liga-mx/?_app=true",
+"private": "0",
+"publicationDate": "03 junio 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "¡Cruz Azul campeón del Clausura 2026! La Máquina conquista su décima estrella",
+"videoAssetId": "6a13bf20a43dba84ea420498"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "25:00",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-2",
+"highlighted": false,
+"id": "0000019e-5d33-d76c-abde-5d3f671b0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/5e1c077/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe1%2F57%2F34a7ccbc4dbda2cb78e4512ebe8b%2Fresumen-final.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/resumen-y-goles-pumas-1-2-cruz-azul-final-vuelta-clausura-2026-liga-mx/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "Cruz Azul conquista CU y vence a Pumas en una Final inolvidable",
+"videoAssetId": "6a13c21fe5c2b885c4fdbf9f"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "2:05",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-3",
+"highlighted": false,
+"id": "0000019e-5d21-d76c-abde-5d2f17390000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/e810863/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fb8%2F03%2F0f78306f8d767367535ef1401404%2Fthumb-6a13be5d205dfc8869297046-1779678821455.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/gol-rotondi-en-el-pumas-vs-cruz-azul-final-clausura-2026-liga-mx/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "¡GOL DE CAMPEONATO! Rotondi silencia CU y acerca a Cruz Azul al título",
+"videoAssetId": "6a13be5d205dfc8869297046"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "2:22",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-4",
+"highlighted": false,
+"id": "0000019e-5d1c-d76c-abde-5d1e84490000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/1097205/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fdc%2Fef%2F052558e909cc922d2a733b56b134%2Fthumb-6a13bd3ac7d93f0e4d62cc79-1779678530533.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/tarjeta-roja-para-antuna-en-el-pumas-vs-cruz-azul-final-clausura-2026-liga-mx/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": " ¡EXPULSADO ANTUNA! Pumas se queda con 10 en plena Final ante Cruz Azul",
+"videoAssetId": "6a13bd3ac7d93f0e4d62cc79"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "1:27",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-5",
+"highlighted": false,
+"id": "0000019e-5cfc-d76c-abde-5dfe7b3e0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/c1c4364/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F64%2Fcc%2F6a6a16a6452db7afb42bc3ff7536%2Fautogol.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/autogol-ruben-duarte-en-el-pumas-vs-cruz-azul-final-vuelta-liga-mx/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "¡AUTOGOL DE RUBÉN DUARTE! Cruz Azul responde en la Gran Final ante Pumas",
+"videoAssetId": "6a13b4950510cc0e32a425ac"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "1:52",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-6",
+"highlighted": false,
+"id": "0000019e-5cce-d76c-abde-5dceaffa0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/0761c83/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fb5%2F08%2F05ec0b90456594b087c5ba47a1d6%2Fgool.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/golazo-robert-morales-en-el-pumas-vs-cruz-azul-final-clausura-2026-liga-mx/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "¡GOLAZO INFERNAL de Robert Morales! Pumas explota en la Final ante Cruz Azul",
+"videoAssetId": "6a13a942adb25c849f853e84"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "1:17",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-7",
+"highlighted": false,
+"id": "0000019e-5cb7-d76c-abde-5dbfe7be0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/49685e4/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe7%2Ffa%2F48c5c92247bfb2c120d2da75bd3e%2Fkeylor-1.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/san-keylor-aparece-en-la-final-pumas-vs-cruz-azul-clausura-2026-liga-mx/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "¡APARECIÓ SAN KEYLOR! Navas salva a Pumas en la Final ante Cruz Azul",
+"videoAssetId": "6a13a367ea065bbec699a316"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "2:42",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-8",
+"highlighted": false,
+"id": "0000019e-5cae-d76c-abde-5daea92a0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/61dd357/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F65%2Fa0%2Fb0e367366c7d18a1f1a43e629872%2Fthumb-6a13a0e865dba50e5ba2bacf-1779671277708.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/sono-el-himno-pumas-en-la-final-vs-cruz-azul-ambiente-en-cu/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "¡PIEL CHINITA! El HIMNO de Pumas retumba en la Gran Final ante Cruz Azul",
+"videoAssetId": "6a13a0e865dba50e5ba2bacf"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "6:22",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-9",
+"highlighted": false,
+"id": "0000019e-5cae-d76c-abde-5daeaeb60000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/cb835fe/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fb8%2F85%2Fda174d0bfa9b1c8c311ce157789a%2Fthumb-6a13a0d15b7c5f0e4d1451b6-1779671257270.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/ambiente-espectacular-en-cu-la-final-pumas-vs-cruz-azul-liga-mx/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "¡CU ES UNA LOCURA! El Olímpico explota en la FINAL Pumas vs Cruz Azul",
+"videoAssetId": "6a13a0d15b7c5f0e4d1451b6"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "6:27",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-fut-azteca-pos-10",
+"highlighted": false,
+"id": "0000019e-5c8a-d76c-abde-5d8e0e9d0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/2c09a3e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F9e%2F6a%2F5a4cececb888531064c5a376046a%2Fthumb-6a13975f6a47660e67ecf232-1779668839401.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/mikel-arriola-confirma-crecimiento-historico-la-liga-mx-y-cambios-para-2026/?_app=true",
+"private": "0",
+"publicationDate": "24 mayo 2026",
+"section": "Liga MX",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Fut Azteca (Sección Padre)",
+"type": "Section"
+}
+],
+"title": "Mikel Arriola CONFIRMA el crecimiento BRUTAL de la Liga MX rumbo al Mundial 2026",
+"videoAssetId": "6a13975f6a47660e67ecf232"
+}
+],
+"view": "slider",
+"content": "",
+"headline": "Fut Azteca",
+"moreTitle": ""
+},
+{
+"promos": [
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "2:59",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-lo-mas-visto-pos-1",
+"highlighted": false,
+"id": "0000019f-24af-dfe2-adff-bfefa1540000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/f17a412/2147483647/strip/true/crop/1920x1080+5+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fd5%2Fa1%2F203f609e40728b367432a59cf218%2Fresumen-final.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/espana-vs-austria-resumen-express-highlights-copa-mundial-la-fifa-2026/?_app=true",
+"private": "0",
+"publicationDate": "02 julio 2026",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "¡España arrolla a Austria! Oyarzabal firma un hat-trick y La Roja avanza con autoridad",
+"videoAssetId": "6a46d4491dcbb00f427d273b"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "1:46",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-lo-mas-visto-pos-2",
+"highlighted": false,
+"id": "0000019f-24a1-dfe2-adff-bfe7d6540000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/a099d4c/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F2c%2F0d%2F1969ba6649dfbc7a71ff2373dbd9%2Fthumb-6a46d09884e0131c76bc13d9-1783025824435.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/goool-mikel-oyarzabal-espana-3-0-austria-copa-mundial-la-fifa-2026/?_app=true",
+"private": "0",
+"publicationDate": "02 julio 2026",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "¡Doblete de Oyarzabal! España aplasta a Austria y manda un mensaje al Mundial",
+"videoAssetId": "6a46d09884e0131c76bc13d9"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "1:48",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-lo-mas-visto-pos-3",
+"highlighted": false,
+"id": "0000019f-248a-dfe2-adff-bfeef55b0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/57222c0/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8f%2Fa1%2F061b92b5332d07a2dfc8b0ec65d9%2Fthumb-6a46cb466b5fae0eacb41936-1783024463480.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/goool-pedro-porro-espana-vs-austria-copa-mundial-la-fifa-2026/?_app=true",
+"private": "0",
+"publicationDate": "02 julio 2026",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "¡Pedro Porro amplía la ventaja! España da un golpe de autoridad ante Austria",
+"videoAssetId": "6a46cb466b5fae0eacb41936"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "1:31",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-lo-mas-visto-pos-4",
+"highlighted": false,
+"id": "0000019f-2466-dfe2-adff-bfe658ad0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/7b2dffb/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F6a%2F1c%2Fbef20d02848449fd603238a98e32%2Fthumb-6a46c111a86e355b6b3985c6-1783021850784.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/goool-mikel-oyarzabal-espana-vs-austria-copa-mundial-la-fifa-2026/?_app=true",
+"private": "0",
+"publicationDate": "02 julio 2026",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "¡Oyarzabal rompe el cero! España pega primero ante Austria en los dieciseisavos",
+"videoAssetId": "6a46c111a86e355b6b3985c6"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "1:05",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-lo-mas-visto-pos-5",
+"highlighted": false,
+"id": "0000019f-2434-dfe2-adff-bff65d520000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/947fb8a/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fa3%2Fca%2Ff6642971b2addf9a4fa2fbc9e859%2Fthumb-6a46b4d4b33df01dd84e49b5-1783018718562.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/new-video-suena-el-himno-espana-espana-vs-austria-dieciseisavos-copa-mundial-la/?_app=true",
+"private": "0",
+"publicationDate": "02 julio 2026",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "¡Piel de gallina en el estadio! España entona su himno antes de enfrentar a Austria",
+"videoAssetId": "6a46b4d4b33df01dd84e49b5"
+},
+{
+"author": "Publicado por: Francisco Fernández",
+"contentType": "video",
+"durationTime": "0:20",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-lo-mas-visto-pos-6",
+"highlighted": false,
+"id": "0000019f-2109-d074-addf-61cbb5420000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/3133eaa/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe0%2F33%2Fa941b19347ab833c8ec8c768ec1a%2Fparaguay-vs-francia-8vos-de-final-copa-mundial-fifa-2026.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/francia-vs-paraguay-ver-en-vivo-y-gratis-el-partido-octavos-final-del-mundial-2026/?_app=true",
+"private": "0",
+"publicationDate": "02 julio 2026",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "Paraguay vs Francia: Ver EN VIVO y GRATIS el partido de Octavos de Final del Mundial 2026 en TV Abierta, a través de TV Azteca",
+"videoAssetId": "6a45e545c37075f5e727c117"
+},
+{
+"author": "Publicado por: Eduardo Camarena",
+"contentType": "video",
+"durationTime": "0:20",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-lo-mas-visto-pos-7",
+"highlighted": false,
+"id": "0000019f-1ffb-d074-addf-5ffbb3ed0000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/5e256e7/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe6%2Fa8%2Fae4ff251483a96dfe8851f521307%2Fmexico-vs-inglaterra-octavos-de-final-mundial-2026.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/mexico-vs-inglaterra-ver-en-vivo-gratis-el-partido-octavos-final-mundial-2026-fifa/?_app=true",
+"private": "0",
+"publicationDate": "01 julio 2026",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "México vs Inglaterra: Ver EN VIVO y GRATIS el partido de Octavos de Final del Mundial 2026 en TV Abierta, a través de TV Azteca",
+"videoAssetId": "6a45a0226e3f6b65e24ed5c2"
+},
+{
+"author": "Publicado por: Azteca Deportes",
+"contentType": "video",
+"durationTime": "2:58",
+"dynamicFormType": "",
+"endTime": "",
+"firebaseEvent": "lista-de-envivos-slider-lo-mas-visto-pos-8",
+"highlighted": false,
+"id": "0000019f-209b-d074-addf-61dbdd440000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/a693be8/2147483647/strip/true/crop/1920x1080+5+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F82%2F1f%2F020e89ca42ab8610fd96d4c7f2af%2Fresumen-final.jpg",
+"isLive": false,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/estados-unidos-avanza-autoridad-balogun-y-tillman-sellan-el-triunfo-bosnia/?_app=true",
+"private": "0",
+"publicationDate": "01 julio 2026",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "Videos",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "Estados Unidos vs Bosnia | RESUMEN Y GOLES | Highlights | Copa Mundial de la FIFA 2026",
+"videoAssetId": "6a45c8ce6dc869664af8d3a2"
+}
+],
+"view": "slider",
+"content": "",
+"headline": "Lo más visto",
+"moreTitle": ""
+}
+],
+"title": "Lista de envivos"
+}
