@@ -1,0 +1,161 @@
+{
+"breakingNews": [],
+"config": {
+"login": {
+"private": "2",
+"privateCfg": "https://www.tvazteca.com/envivo2020/login-appdeportes"
+}
+},
+"modules": [
+{
+"data": {
+"source": "https://tvazteca.brightspotcdn.com/program_schedule/app/marcadores.json"
+},
+"headline": "Barra Caliente",
+"view": "barraCaliente"
+},
+{
+"screens": [
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/contenido-de-la-cartelera",
+"title": "Cartelera"
+},
+{
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/lista-de-contenidos-del-mundial",
+"title": "Copa Mundial de la FIFA 2026"
+},
+{
+"color": "#4c1717",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/futbol",
+"subSection": [
+{
+"color": "#f70707",
+"icon": "icon",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/fut-azteca",
+"title": "Fut Azteca"
+},
+{
+"color": "#f60000",
+"icon": "f44e",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/copa-america",
+"title": "Copa América"
+},
+{
+"color": "#f40a0a",
+"icon": "f44e",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/liga-mx",
+"title": "Liga MX"
+},
+{
+"color": "#ff0303",
+"icon": "f44e",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/liga-expansion-mx",
+"title": "Liga Expansión MX"
+},
+{
+"color": "#ef1010",
+"icon": "f44e",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/liga-mx-femenil",
+"title": "Liga MX Femenil"
+}
+],
+"title": "Fútbol"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/futbol-americano",
+"title": "Futbol americano"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/beisbol",
+"title": "Béisbol"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/basquetbol",
+"title": "Basquetbol"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/tenis",
+"title": "Tenis"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/automovilismo",
+"title": "Automovilismo"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/box-azteca",
+"title": "Box azteca"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/azteca-esports",
+"title": "Azteca Esports"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/lucha-azteca",
+"title": "Lucha Azteca"
+},
+{
+"color": "#4c1414",
+"icon": "f017",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/azteca-golf",
+"title": "Golf Azteca"
+},
+{
+"color": "#401313",
+"icon": "dfdsf",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/los-protagonistas",
+"title": "Los Protagonistas"
+}
+],
+"view": "contentMenu"
+},
+{
+"screens": [
+{
+"color": "#9e5454",
+"icon": "fa-life-ring",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/lista-de-envivos",
+"title": "En VIVO"
+},
+{
+"color": "#857c7c",
+"icon": "fa-sharp",
+"source": "https://tvazteca.brightspotcdn.com/program_schedule/app/resultados/selector.json",
+"title": "Resultados"
+},
+{
+"color": "#a94c4c",
+"icon": "fa-life-ring",
+"source": "https://www.tvazteca.com/aztecadeportes/app/screen/pantalla-de-busqueda",
+"title": "Buscar"
+}
+],
+"view": "navigationBar"
+},
+{
+"data": {
+"source": "https://www.tvazteca.com/aztecadeportes/forceupdate.json"
+},
+"headline": "forceUpdate",
+"view": "forceUpdate"
+}
+]
+}
