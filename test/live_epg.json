@@ -3,28 +3,65 @@
 {
 "headline": "En Vivo",
 "promos": [
+  {
+"contentType": "ShowPromo",
+"durationTime": "",
+"dynamicFormType": "",
+"endTime": "1783371600000",
+"firebaseEvent": "lista-de-envivos-sliderthumbs-en-vivo-pos-1",
+"highlighted": false,
+"id": "00000197-6130-df6f-a3df-63bc10970000",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/d6eacbd/2147483647/strip/true/crop/1600x900+0+0/resize/336x189!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F17%2F72%2Ffdd297914b1a95186da0a14dcde5%2Fportugal-vs-espana-fecha.jpeg",
+"isLive": true,
+"linkPermanente": "https://www.tvazteca.com/aztecadeportes/mundial-2026/envivo?_app=true",
+"previewDetails": {
+"description": "Últimas noticias de la Copa Mundial de la FIFA 2026: Información de hoy y última hora de la Copa del Mundo en México, Estados Unidos y Canadá",
+"imageBackground": "https://tvazteca.brightspotcdn.com/dims4/default/e8904b3/2147483647/strip/true/crop/1600x900+0+0/resize/1920x1080!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F17%2F72%2Ffdd297914b1a95186da0a14dcde5%2Fportugal-vs-espana-fecha.jpeg",
+"logo": ""
+},
+"private": "0",
+"publicationDate": "11 junio 2025",
+"section": "Copa Mundial de la FIFA 2026",
+"site": "Azteca Deportes",
+"startTime": "1783363200000",
+"surveyEnable": false,
+"tags": [
+{
+"color": "#ffffff",
+"name": "tagContentType.type.null",
+"type": "ContentType"
+},
+{
+"color": "",
+"name": "Copa Mundial de la FIFA 2026",
+"type": "Section"
+}
+],
+"title": "Portugal vs España | Partido 8vos de Final Copa Mundial de la FIFA 2026",
+"videoAssetId": "69b0e2ca155d8510bf7e5e38"
+},
 {
 "channelLogo": "https://tvazteca.brightspotcdn.com/dims4/default/c1a5d68/2147483647/strip/true/crop/200x134+0+0/resize/90x60!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2Fa6%2Fae%2F64d335e84574b737e9c2434ca33d%2Fdeportenetwork-200x134.png",
 "contentType": "ShowPromo",
 "durationTime": "",
 "dynamicFormType": "",
-"endTime": "1783105200000",
-"firebaseEvent": "lista-de-envivos-sliderthumbs-en-vivo-pos-1",
+"endTime": "1783371600000",
+"firebaseEvent": "lista-de-envivos-sliderthumbs-en-vivo-pos-2",
 "highlighted": false,
 "id": "0000019c-dea1-dc98-a3dc-debdf0cc0000",
-"image": "https://tvazteca.brightspotcdn.com/dims4/default/261748a/2147483647/strip/true/crop/1000x563+0+1/resize/336x189!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2F13%2Fbb%2Fdb7ef4094e9b8f4e9d8492556006%2Fott-card-1000x564-led.jpg",
+"image": "https://tvazteca.brightspotcdn.com/dims4/default/877fdca/2147483647/strip/true/crop/1000x563+0+1/resize/336x189!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2F63%2F9c%2F14492430411e8ddb5a2572b7cf21%2Fott-card-1000x564-asado.jpg",
 "isLive": true,
 "linkPermanente": "https://www.tvazteca.com/aztecadeportes/azteca-deportes-network-en-vivo?_app=true",
 "previewDetails": {
 "description": "Aquí podrás descubrir la información, noticias y actualizaciones de la programación de TV Azteca Deportes Network.",
-"imageBackground": "https://tvazteca.brightspotcdn.com/dims4/default/0e3a8e1/2147483647/strip/true/crop/1000x563+0+1/resize/1920x1080!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2F13%2Fbb%2Fdb7ef4094e9b8f4e9d8492556006%2Fott-card-1000x564-led.jpg",
+"imageBackground": "https://tvazteca.brightspotcdn.com/dims4/default/b6ec01d/2147483647/strip/true/crop/1000x563+0+1/resize/1920x1080!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2F63%2F9c%2F14492430411e8ddb5a2572b7cf21%2Fott-card-1000x564-asado.jpg",
 "logo": "https://tvazteca.brightspotcdn.com/dims4/default/00a2ae6/2147483647/strip/true/crop/512x512+0+0/resize/280x280!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2F5a%2F32%2Fd15bd8f24b01a2f8e7daa1d74d1b%2Flive-switcher-deportes-network.png"
 },
 "private": "0",
 "publicationDate": "11 marzo 2026",
 "section": "TV Azteca Deportes Network",
 "site": "Azteca Deportes",
-"startTime": "1783101600000",
+"startTime": "1783368000000",
 "surveyEnable": false,
 "tags": [
 {
@@ -38,7 +75,7 @@
 "type": "Section"
 }
 ],
-"title": "La Entrevista de 24: Deportes",
+"title": "El Asado",
 "videoAssetId": "6994be4d5caab0723aaab37c"
 }
 ],
