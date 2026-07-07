@@ -44,7 +44,7 @@
 "channelLogo": "https://tvazteca.brightspotcdn.com/dims4/default/c1a5d68/2147483647/strip/true/crop/200x134+0+0/resize/90x60!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2Fa6%2Fae%2F64d335e84574b737e9c2434ca33d%2Fdeportenetwork-200x134.png",
 "contentType": "ShowPromo",
 "durationTime": "",
-"dynamicFormType": "",
+"dynamicFormType": "Ventas",
 "endTime": "1783371600000",
 "firebaseEvent": "lista-de-envivos-sliderthumbs-en-vivo-pos-2",
 "highlighted": false,
