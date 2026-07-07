@@ -62,7 +62,7 @@
 "section": "TV Azteca Deportes Network",
 "site": "Azteca Deportes",
 "startTime": "1783368000000",
-"surveyEnable": false,
+"surveyEnable": true,
 "tags": [
 {
 "color": "#ffffff",
